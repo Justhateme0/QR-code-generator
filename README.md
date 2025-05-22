@@ -17,7 +17,7 @@ A Telegram bot that generates beautiful QR codes with customization options.
 ```bash
 pip install -r requirements.txt
 ```
-3. Create `.env` file and add your Telegram Bot Token:
+3. Change `.env` file and add your Telegram Bot Token:
 ```
 BOT_TOKEN=your_bot_token_here
 ```
@@ -58,7 +58,7 @@ Feel free to contribute to this project by creating issues or pull requests.
 ```bash
 pip install -r requirements.txt
 ```
-3. Создайте файл `.env` и добавьте токен вашего Telegram бота:
+3. Редактируйте файл `.env` и добавьте токен вашего Telegram бота:
 ```
 BOT_TOKEN=ваш_токен_бота
 ```
